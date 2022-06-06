@@ -5,6 +5,8 @@ title: Home
 # Artificial Intelligence and Neuroimaging for Health
 
 In the arTificiAl iNtelliGence and nEuroimagiNg for healTh (TANGENT) Lab, we develop intelligent systems that support clinical workflows to increase the access to highest-quality healthcare. Our projects focus on developing advanced Artificial Intelligence methods for Neuroimaging. 
+
+{:.center}
 {%
   include link.html
   type="github"
@@ -17,7 +19,7 @@ In the arTificiAl iNtelliGence and nEuroimagiNg for healTh (TANGENT) Lab, we dev
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/campus.jpeg" %}
 
 {% include section.html %}
 
