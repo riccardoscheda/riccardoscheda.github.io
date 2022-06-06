@@ -40,7 +40,7 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/campus.jpeg"
   link="research"
   title="Our Research"
   text=text
@@ -61,7 +61,7 @@ we developed tools for Slice-level Data-leakage, and other methods.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/campus.jpeg"
   link="resources"
   title="Our Resources"
   flip=true
@@ -82,7 +82,7 @@ See our team
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/campus.jpeg"
   link="team"
   title="Our Team"
   text=text
