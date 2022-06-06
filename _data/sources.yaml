@@ -1,7 +1,4 @@
-- title: Slice level data leakage
-  group: featured
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-01681-w/MediaObjects/41598_2021_1681_Fig2_HTML.png?as=webp
-  link: https://www.nature.com/articles/s41598-021-01681-w#Fig2
-  description: Slice level data leakage
+- id: https://doi.org/10.1038/s41598-021-01681-w
+  image: https://github.com/riccardoscheda/riccardoscheda.github.io/blob/main/images/slice-level-data-leakage.png?raw=true
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
 
