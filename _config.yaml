@@ -10,12 +10,10 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
+  email: 
   google-scholar: Jane Smith
-  github: your-lab
+  github: https://github.com/Imaging-AI-for-Health-virtual-lab
   twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
 
 ### advanced settings
 
