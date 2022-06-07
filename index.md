@@ -46,7 +46,7 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 %}
 
 {% capture text %}
-we developed tools for Slice-level Data-leakage, and other methods.
+We developed tools for Slice-level Data-leakage, and other methods.
 
 {%
   include link.html
