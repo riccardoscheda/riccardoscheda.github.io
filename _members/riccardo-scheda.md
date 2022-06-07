@@ -6,6 +6,8 @@ role: phd
 group: alum
 aliases:
   - R. Scheda
+  - R Scheda
+  - Riccardo Scheda
 
 links:
   home-page: riccardo.scheda.github.io

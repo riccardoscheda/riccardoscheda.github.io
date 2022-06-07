@@ -5,6 +5,8 @@ description: Principal Investigator
 role: pi
 aliases:
   - S. Diciotti
+  - S Diciotti
+  - Stefano Diciotti
 
 links:
   orcid: 0000-0001-8778-7819
