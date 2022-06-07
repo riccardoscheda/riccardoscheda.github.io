@@ -49,6 +49,6 @@ Viale del Risorgimento 2, Bologna, Italy
 
 {%
   include figure.html
-  image="images/campus.jpg"
+  image="images/campus.jpeg"
   caption="Bologna"
 %}
