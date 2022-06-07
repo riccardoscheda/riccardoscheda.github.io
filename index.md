@@ -19,7 +19,6 @@ In the arTificiAl iNtelliGence and nEuroimagiNg for healTh (TANGENT) Lab, we dev
 
 {% include section.html full=true %}
 
-/*{% include banner.html image="images/campus.jpeg" %}*/
 
 {% include section.html %}
 
