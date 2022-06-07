@@ -7,25 +7,26 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the [Dipartimento di Ingegneria dell'Energia Elettrica e dell'Informazione "Guglielmo Marconi"
+Viale del Risorgimento 2, Bologna](https://www.unibo.it/it/ateneo/sedi-e-strutture/scuole/scuola-di-ingegneria).
+
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="stefano.diciotti@unibo.it"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="stefano.diciotti@unibo.it"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="+39 0547 339121"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+39 0547 339121"
   style="button"
 %}
 {%
@@ -34,7 +35,7 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.it/maps/place/Viale+del+Risorgimento,+2,+40136+Bologna+BO/@44.4878365,11.3288783,17z/data=!3m1!4b1!4m5!3m4!1s0x477fd4edda548a25:0x7c6e534749a16935!8m2!3d44.4878365!4d11.331067"
   style="button"
 %}
 {:.center}
@@ -43,23 +44,11 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Viale del Risorgimento 2, Bologna, Italy
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/campus.jpg"
+  caption="Bologna"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
