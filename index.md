@@ -60,7 +60,7 @@ We developed tools for Slice-level Data-leakage, and other methods.
 
 {%
   include feature.html
-  image="images/campus.jpeg"
+  image="images/slice-level-data-leakage.png"
   link="resources"
   title="Our Resources"
   flip=true
@@ -81,7 +81,7 @@ See our team
 
 {%
   include feature.html
-  image="images/campus.jpeg"
+  image="images/ingeingresso.jpg"
   link="team"
   title="Our Team"
   text=text
