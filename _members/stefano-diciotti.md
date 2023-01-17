@@ -1,6 +1,6 @@
 ---
 name: Prof. Stefano Diciotti
-image: images/diciotti.jpg
+image: images/diciotti.jpeg
 description: Principal Investigator
 role: pi
 aliases:
