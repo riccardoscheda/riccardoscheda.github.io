@@ -1,9 +1,9 @@
 ---
 title: Group Members
-description: Description for this page
+description: Read about the AI for Medicine Research Group members.
 nav:
   order: 1
-  tooltip: About our team
+  tooltip: About the group members
 
 header-dark: false
 footer-dark: false
