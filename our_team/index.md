@@ -13,7 +13,7 @@ footer-dark: false
 # <i class="fas fa-users"></i>Group Members
 
 
-<center>The <b>AI for Medicine Research Group</b> is led by <b>Prof. Stefano Diciotti</b>.
+<center>The <b>AI for Medicine Research Group</b> is led by <b>Prof. Stefano Diciotti</b>.<br>
 For up-to-date info of the group members, check out their links.</center>
 
 {% include section.html %}
