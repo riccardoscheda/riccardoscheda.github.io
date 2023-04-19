@@ -14,7 +14,7 @@ links:
   github: 97andrea97
 ---
 
-<center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center><br>
+<center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center>
 
 <b>Current occupation</b>: <center>Andrea Espis is a PhD Student in Health and Technology at University of Bologna. It's doctoral project is "Beyond Supervised Learning for Precision Medicine".</center>
   
