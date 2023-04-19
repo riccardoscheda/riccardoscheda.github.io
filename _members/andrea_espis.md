@@ -2,9 +2,11 @@
 title: Andrea Espis
 image: images/Andrea_photo_small.jpg
 role: phd
-email: andrea.espis3@studio.unibo.it
-website: https://github.com/97andrea97 
-github: 97andrea97
+description: PhD student
+links:
+  email: andrea.espis3@studio.unibo.it
+  website: https://github.com/97andrea97 
+  github: 97andrea97
 ---
 
 <center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center><br>
