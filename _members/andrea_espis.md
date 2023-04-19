@@ -3,6 +3,11 @@ title: Andrea Espis
 image: images/Andrea_photo_small.jpg
 role: phd
 description: PhD student
+group: alum
+aliases:
+  - A. Espis
+  - A Espis
+  - Andrea Espis 
 links:
   email: andrea.espis3@studio.unibo.it
   website: https://github.com/97andrea97 
