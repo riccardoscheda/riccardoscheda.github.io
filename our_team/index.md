@@ -13,7 +13,7 @@ footer-dark: false
 <!-- section dark -->
 <!-- section background images/banner.jpg -->
 
-{% include figure.html image="images/team_photo.jpg" width="80%" %}
+{% include figure.html image="images/team_photo.jpg" width="40%" height="40%" %}
 
 # <i class="fas fa-users"></i>Group Members
 
