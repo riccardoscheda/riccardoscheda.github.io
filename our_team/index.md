@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Group Members
 description: Description for this page
 nav:
   order: 1
