@@ -1,5 +1,5 @@
 ---
-title: Our team
+title: Our group
 description: Description for this page
 nav:
   order: 1
@@ -9,4 +9,8 @@ header-dark: false
 footer-dark: false
 ---
 
-Some text written in Markdown for the Awards page.
+
+# <i class="fas fa-users"></i>Group Members
+
+The **AI for Medicine Research Group** consists of full-time PhD students and Research Fellows led by **Prof. Stefano Diciotti**. 
+For up-to-date info the group members, check out their links.
