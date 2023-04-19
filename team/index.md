@@ -7,7 +7,7 @@ nav:
 
 
 <!-- section dark -->
-{% include figure.html image="images/team_photo.png" width="80%" %}
+{% include figure.html image="images/team_photo.jpg" width="80%" %}
 
 
 # <i class="fas fa-users"></i>Team
