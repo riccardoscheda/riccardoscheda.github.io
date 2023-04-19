@@ -14,7 +14,7 @@ footer-dark: false
 
 
 <center>The <b>AI for Medicine Research Group</b> is led by <b>Prof. Stefano Diciotti</b>.<br>
-For up-to-date info of the group members, check out their links.</center>
+For up-to-date info about the Group members, check out their personal links.</center>
 
 {% include section.html %}
 
