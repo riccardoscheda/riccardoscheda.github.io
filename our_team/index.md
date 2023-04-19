@@ -1,9 +1,9 @@
 ---
-title: Our group
+title: Team
 description: Description for this page
 nav:
   order: 1
-  tooltip: Praise and laurels
+  tooltip: About our team
 
 header-dark: false
 footer-dark: false
