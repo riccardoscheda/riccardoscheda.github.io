@@ -1,6 +1,6 @@
 ---
 title: Andrea Espis
-image: images/andrea_photo.jpg
+image: images/Andrea_photo.jpg
 role: phd
 email: andrea.espis3@studio.unibo.it
 website: https://cgomez11.github.io/ 
