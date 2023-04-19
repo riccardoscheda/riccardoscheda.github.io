@@ -5,6 +5,11 @@ nav:
   tooltip: About our team
 ---
 
+
+<!-- section dark -->
+{% include figure.html image="images/team_photo.png" width="80%" %}
+
+
 # <i class="fas fa-users"></i>Team
 
 Meet our team
