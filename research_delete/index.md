@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Research_to_delete
 nav:
   order: 1
   tooltip: Published works
