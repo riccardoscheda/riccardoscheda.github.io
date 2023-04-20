@@ -11,7 +11,7 @@ aliases:
   - Andrea Espis 
 links:
   email: andrea.espis3@studio.unibo.it
-  external: https://97andrea97.github.io/personal_website/
+  website: https://97andrea97.github.io/personal_website/
   github: 97andrea97
   linkedin: www.linkedin.com/in/andrea-espis
 ---
