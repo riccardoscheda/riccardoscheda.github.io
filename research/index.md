@@ -12,13 +12,13 @@ Depending on your interests you might be more interested to know about our resea
   include gallery.html
   style="square"
 
-  image1="images/research_topics/technology.jpeg"
+  image1="images/technology.jpg"
   link1="https://quantmarineecolab.github.io/research/technology"
-  tooltip1="Our research from the technology perspective"
+  tooltip1="Our research from a technological perspective"
 
-  image2="images/research_topics/medicine.jpeg"
+  image2="images/medicine.png"
   link2="https://quantmarineecolab.github.io/research/medicine"
-  tooltip2="Our research from the medicine perspective"
+  tooltip2="Our research from a medical perspective"
 
 %}
 
