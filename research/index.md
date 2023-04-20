@@ -13,24 +13,12 @@ Depending on your interests you might be more interested to know about our resea
   style="square"
 
   image1="images/research_topics/technology.jpeg"
-  link1="https://quantmarineecolab.github.io/our_research/technology"
-  tooltip1="Ecological monitoring"
+  link1="https://quantmarineecolab.github.io/research/technology"
+  tooltip1="Our research from the technology perspective"
 
   image2="images/research_topics/medicine.jpeg"
-  link2="https://quantmarineecolab.github.io/our_research/medicine"
-  tooltip2="Sustainable seafood"
-
-  image3="images/research_topics/topic-beyond-supervised-learning.jpeg"
-  link3="https://quantmarineecolab.github.io/publications/"
-  tooltip3="Extreme events"
-
-  image4="images/research_topics/topic-autism.jpeg"
-  link4="https://quantmarineecolab.github.io/research/socioeco"
-  tooltip4="Socio-ecological dynamics"
-  
-  image4="images/research_topics/topic-swarm-learning.jpeg"
-  link4="https://quantmarineecolab.github.io/research/socioeco"
-  tooltip4="Socio-ecological dynamics"
+  link2="https://quantmarineecolab.github.io/research/medicine"
+  tooltip2="Our research from the medicine perspective"
 
 %}
 
