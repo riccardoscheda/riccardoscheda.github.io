@@ -22,5 +22,5 @@ links:
 
 <center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center><br>
 
-<center>Andrea Espis is a PhD Student in Health and Technology at University of Bologna. It's doctoral research project is "Beyond Supervised Learning for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
+<center>Andrea Espis is a PhD Student in Health and Technology at University of Bologna. His doctoral research project is "Beyond Supervised Learning for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
   
