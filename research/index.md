@@ -23,7 +23,9 @@ Depending on your interests you might be more interested to know about our resea
 %}
 
 ## Overview
-Our goal is to design and develop ad-hoc frameworks to solve healthcare problems, help clinicians, discover biomarkers, close the gap between computer science research and clinical applications... in other words, we want to improve the medical domain exploiting technology. The most powerful technology, when dealing with images, big data, and genomics, is often AI. These are our tenants:
+Our goal is to design and develop ad-hoc frameworks to solve healthcare problems, help clinicians, discover biomarkers, close the gap between computer science research and clinical applications... in other words, we want to improve the medical domain exploiting technology. The most powerful technology, when dealing with images, big data, and genomics, is often AI. 
+
+These are our tenants:
 
 * Make the work reproducible.
 * Keep in mind the integration of the framework with the clinician workflow.
