@@ -7,13 +7,13 @@ link:
   link: $LINK
 
 CV:
-  icon: fa-thin fa-folder-user
+  icon: fa-sharp fa-solid fa-folder-user
   text: CV
   tooltip: Curriculum Vitae
   link: $LINK
   
 resume:
-  icon: fa-solid fa-file-user
+  icon: fa-thin fa-file-user
   text: Resume
   tooltip: Resume
   link: $LINK
