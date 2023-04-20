@@ -3,7 +3,6 @@ title: Andrea Espis
 name: Andrea Espis
 image: images/Andrea_photo_small.jpg
 role: phd
-description: PhD student
 group: alum
 aliases:
   - A. Espis
