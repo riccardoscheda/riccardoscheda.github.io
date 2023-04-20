@@ -4,15 +4,15 @@
   include gallery.html
   style="square"
 
-  image1="images/alzheimer.jpg"
+  image1="images/alzheimer.jpeg"
   link1="https://riccardoscheda.github.io/research/medicine/Alzheimer disease/"
   tooltip1="Alzheimer disease"
 
-  image2="images/autism.png"
+  image2="images/autism.jpg"
   link2="https://riccardoscheda.github.io/research/medicine/Autism Spectrum Disorder/"
   tooltip2="Autism Spectrum Disorder"
   
-  image3="images/lung_cancer.png"
+  image3="images/lung_cancer.jpg"
   link3="https://riccardoscheda.github.io/research/medicine/Lung cancer/"
   tooltip3="Lung cancer"
   
