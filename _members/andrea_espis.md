@@ -11,8 +11,9 @@ aliases:
   - Andrea Espis 
 links:
   email: andrea.espis3@studio.unibo.it
-  home-page: https://97andrea97.github.io/personal_website/
+  external: https://97andrea97.github.io/personal_website/
   github: 97andrea97
+  linkedin: www.linkedin.com/in/andrea-espis
 ---
 
 <center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center><br>
