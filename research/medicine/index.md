@@ -1,4 +1,4 @@
-# <i class="fas research"></i>Our research: medicine point of view
+# <i class="fas research"></i>Our research from the medicine perspective
 
 {%
   include gallery.html
