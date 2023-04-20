@@ -6,6 +6,14 @@ link:
   tooltip: Link
   link: $LINK
 
+
+website:
+  icon: fa-sharp fa-solid fa-globe
+  text: Website
+  tooltip: Website
+  link: $LINK
+
+
 external:
   icon: fas fa-external-link-alt
   text: External Link
