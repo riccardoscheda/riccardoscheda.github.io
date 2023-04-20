@@ -20,6 +20,6 @@ links:
   CV: https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view
 ---
 
-<center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center><br>
+<center>"I believe in ... philosophical or funny or whatever kind of sentence to make the reader interested into you"</center>
 <center>Andrea's doctoral research project is "Beyond Supervised Learning frameworks for Precision Medicine". <br><br>He is focused on <b>Self-supervised, Semi-supervised, Multi-modal learning, Imaging and Genomics</b>.</center>
   
