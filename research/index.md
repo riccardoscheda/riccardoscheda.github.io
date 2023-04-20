@@ -12,7 +12,7 @@ Depending on your interests you might be more interested to know about our resea
   include gallery.html
   style="square"
 
-  image1="images/research_topics/technology.png"
+  image1="images/research_topics/technology.jpg"
   link1="https://riccardoscheda.github.io/research/technology"
   tooltip1="Our research from a technological perspective"
 
