@@ -13,11 +13,11 @@ Depending on your interests you might be more interested to know about our resea
   style="square"
 
   image1="images/technology.jpg"
-  link1="https://quantmarineecolab.github.io/research/technology"
+  link1="https://riccardoscheda.github.io/research/technology"
   tooltip1="Our research from a technological perspective"
 
   image2="images/medicine.png"
-  link2="https://quantmarineecolab.github.io/research/medicine"
+  link2="https://riccardoscheda.github.io/research/medicine"
   tooltip2="Our research from a medical perspective"
 
 %}
