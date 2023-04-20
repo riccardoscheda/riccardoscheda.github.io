@@ -23,4 +23,4 @@ links:
 and a Master's Degree in Artificial Intelligence (University of Bologna), both with grade 110/110 with honorus. He has had industrial experiences working for DataVision and Amazon and he has been tutor of Machine Learning for 
 the Bologna Business School.</center><br>
 
-<center>Read more about Andrea in his <a href="[url](https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view)">CV</a></center>
+<center>Read more about Andrea in his <a href="https://drive.google.com/file/d/1zUWOZWNLkQ_Fam2haIbTG0V-4pII3i__/view">CV</a></center>
