@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Artificial Intelligence and Neuroimaging for Health
+# AI for Medicine Research Group
 
 Welcome to the AI for Medicine Research Group! We are a team of researchers dedicated to advancing the field of precision medicine through the use of artificial intelligence. At the heart of our work is a commitment to open science and collaboration. We believe in sharing all of our source code to accelerate research in this field, and we're excited to work with others who share our passion for using AI to improve patient outcomes.
 
@@ -45,6 +45,38 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
   title="Our Research"
   text=text
 %}
+
+
+
+{% 
+  include section.html
+  background="images/campus.jpeg"
+  dark=true
+  size=full
+%}
+
+## Our Research
+{:.center}
+
+Our research mainly focuses in Neurological Disorders, such as Dementia, Autism and Schizophrenia. 
+* list
+* example
+{:.center}
+
+{%
+  include button.html
+  link="research"
+  text="Find out more about the research"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+
+
+
+
+
+
 
 {% capture text %}
 We developed tools for Slice-level Data-leakage, and other methods.
