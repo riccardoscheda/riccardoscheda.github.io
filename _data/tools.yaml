@@ -6,9 +6,7 @@
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags:
     - Link to manuscript~https://www.nature.com/articles/s41598-021-01681-w
-    - Brain MRI
-    - Data Leakage
-    - CNN
+
 
 - title: PACGAN
   group: synthetic
@@ -17,7 +15,8 @@
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   tags:
-    - Link to manuscript~
+    - Link to Code Ocean~https://codeocean.com/capsule/4918212/tree
+    - Brain MRI  Data Leakage  CNN
     - GAN
     - Classification
     - Brain MRI
