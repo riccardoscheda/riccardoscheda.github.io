@@ -4,7 +4,7 @@ title: Home
 
 # Artificial Intelligence and Neuroimaging for Health
 
-In the arTificiAl iNtelliGence and nEuroimagiNg for healTh (TANGENT) Lab, we develop intelligent systems that support clinical workflows to increase the access to highest-quality healthcare. Our projects focus on developing advanced Artificial Intelligence methods for Neuroimaging. 
+Welcome to the AI for Medicine Research Group! We are a team of researchers dedicated to advancing the field of precision medicine through the use of artificial intelligence. At the heart of our work is a commitment to open science and collaboration. We believe in sharing all of our source code to accelerate research in this field, and we're excited to work with others who share our passion for using AI to improve patient outcomes.
 
 {:.center}
 {%
@@ -19,6 +19,7 @@ In the arTificiAl iNtelliGence and nEuroimagiNg for healTh (TANGENT) Lab, we dev
 
 {% include section.html full=true %}
 
+{% include banner.html image="images/AIphrase.png" %}
 
 {% include section.html %}
 
@@ -87,5 +88,6 @@ See our team
   text=text
 %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{% include twitter.html %}
+
+{% include banner.html image="images/AIphrase2.png" %}
