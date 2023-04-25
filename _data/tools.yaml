@@ -5,6 +5,7 @@
   description: Effect of data leakage caused by inappropriate train/validation split of 3D MR image data. 
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags:
+    - Link to manuscript~https://www.nature.com/articles/s41598-021-01681-w
     - Brain MRI
     - Data Leakage
     - CNN
@@ -16,6 +17,7 @@
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   tags:
+    - Link to manuscript~
     - GAN
     - Classification
     - Brain MRI
