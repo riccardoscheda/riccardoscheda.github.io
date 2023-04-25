@@ -5,8 +5,10 @@
   description: Effect of data leakage caused by inappropriate train/validation split of 3D MR image data. 
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags: 
-    - Source Code~https://github.com/UcarLab/CoRE-ATAC~Code
     - Link to manuscript~https://www.nature.com/articles/s41598-021-01681-w
+    - Brain MRI~https://www.nature.com/articles/s41598-021-01681-w
+    - Data Leakage~https://www.nature.com/articles/s41598-021-01681-w
+    - CNN~https://www.nature.com/articles/s41598-021-01681-w
 
 
 - title: PACGAN
@@ -17,12 +19,11 @@
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   tags:
     - Link to Code Ocean~https://codeocean.com/capsule/4918212/tree
-    - Brain MRI  Data Leakage  CNN
-    - GAN
-    - Classification
-    - Brain MRI
-    - Alzheimer
-    - Synthetic data
+    - GAN~https://www.nature.com/articles/s41598-021-01681-w
+    - Classification~https://www.nature.com/articles/s41598-021-01681-w
+    - Brain MRI~https://www.nature.com/articles/s41598-021-01681-w
+    - Alzheimer~https://www.nature.com/articles/s41598-021-01681-w
+    - Synthetic data~https://www.nature.com/articles/s41598-021-01681-w
     
 - title: Age prediction
   group: more
@@ -31,8 +32,8 @@
   description: Demo to predict the age based on brain MRI features.
   repo: sdiciotti/Age-Prediction-Demo
   tags:
-    - Machine learning
-    - SVR
-    - XGBoost
-    - Explainability
-    - SHAP
+    - Machine learning~https://www.nature.com/articles/s41598-021-01681-w
+    - SVR~https://www.nature.com/articles/s41598-021-01681-w
+    - XGBoost~https://www.nature.com/articles/s41598-021-01681-w
+    - Explainability~https://www.nature.com/articles/s41598-021-01681-w
+    - SHAP~https://www.nature.com/articles/s41598-021-01681-w
