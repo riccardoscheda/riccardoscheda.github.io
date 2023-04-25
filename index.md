@@ -19,7 +19,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/AIphrase.png" %}
+{% include banner.html image="images/campus.jpeg" %}
 
 {% include section.html %}
 
@@ -90,4 +90,5 @@ See our team
 
 {% include twitter.html %}
 
+{% include section.html full=true %}
 {% include banner.html image="images/AIphrase2.png" %}
