@@ -5,5 +5,7 @@
   description: Effect of data leakage caused by inappropriate train/validation split of 3D MR image data. 
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags:
-    - resource
+    - Brain MRI
+    - Data Leakage
+    - CNN
 
