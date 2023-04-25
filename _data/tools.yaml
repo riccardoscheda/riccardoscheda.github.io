@@ -9,3 +9,15 @@
     - Data Leakage
     - CNN
 
+- title: Slice Level Data Leakage
+  group: more
+  image: images/AgePrediction.png
+  link: https://github.com/sdiciotti/Age-Prediction-Demo
+  description: Demo to predict the age based on brain MRI features
+  repo: sdiciotti/Age-Prediction-Demo
+  tags:
+    - Machine learning
+    - SVR
+    - XGBoost
+    - Explainability
+    - SHAP
