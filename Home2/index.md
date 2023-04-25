@@ -1,5 +1,8 @@
 ---
-title: Home
+title: Home2
+nav:
+  order: 6
+  tooltip: Old version of the Home
 ---
 
 # Artificial Intelligence and Neuroimaging for Health
