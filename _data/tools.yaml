@@ -21,11 +21,11 @@
     - Brain MRI
     - Alzheimer
     
-- title: Slice Level Data Leakage
+- title: Age prediction
   group: more
   image: images/AgePrediction.png
   link: https://github.com/sdiciotti/Age-Prediction-Demo
-  description: Demo to predict the age based on brain MRI features
+  description: Demo to predict the age based on brain MRI features.
   repo: sdiciotti/Age-Prediction-Demo
   tags:
     - Machine learning
