@@ -18,7 +18,7 @@ At the AI for Medicine Research Group, we are dedicated to advancing the field o
 
 {% include section.html %}
 
-# Synthetic data generation
+### Synthetic data generation
 
 {% include list.html component="card" data="tools" filters="group: synthetic" %}
 
