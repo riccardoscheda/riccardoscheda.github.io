@@ -6,24 +6,24 @@
   repo: Imaging-AI-for-Health-virtual-lab/Slice-Level-Data-Leakage
   tags: 
     - Link to manuscript~https://www.nature.com/articles/s41598-021-01681-w
-    - Brain MRI~https://www.nature.com/articles/s41598-021-01681-w
-    - Data Leakage~https://www.nature.com/articles/s41598-021-01681-w
-    - CNN~https://www.nature.com/articles/s41598-021-01681-w
+    - Brain MRI
+    - Data Leakage
+    - CNN
 
 
 - title: PACGAN
   group: synthetic
-  image: images/PACGAN.png
+  image: images/PACGAN.JPG
   link: https://github.com/Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   description: Generative adversarial network to synthesize brain MRI of Alzheimer's patients and healthy controls, and perform classification.
   repo: Imaging-AI-for-Health-virtual-lab/GANs-for-brain-MRI-synthesis
   tags:
     - Link to Code Ocean~https://codeocean.com/capsule/4918212/tree
-    - GAN~https://www.nature.com/articles/s41598-021-01681-w
-    - Classification~https://www.nature.com/articles/s41598-021-01681-w
-    - Brain MRI~https://www.nature.com/articles/s41598-021-01681-w
-    - Alzheimer~https://www.nature.com/articles/s41598-021-01681-w
-    - Synthetic data~https://www.nature.com/articles/s41598-021-01681-w
+    - GAN
+    - Classification
+    - Brain MRI
+    - Alzheimer
+    - Synthetic data
     
 - title: Age prediction
   group: more
@@ -32,8 +32,8 @@
   description: Demo to predict the age based on brain MRI features.
   repo: sdiciotti/Age-Prediction-Demo
   tags:
-    - Machine learning~https://www.nature.com/articles/s41598-021-01681-w
-    - SVR~https://www.nature.com/articles/s41598-021-01681-w
-    - XGBoost~https://www.nature.com/articles/s41598-021-01681-w
-    - Explainability~https://www.nature.com/articles/s41598-021-01681-w
-    - SHAP~https://www.nature.com/articles/s41598-021-01681-w
+    - Machine learning
+    - SVR
+    - XGBoost
+    - Explainability
+    - SHAP
