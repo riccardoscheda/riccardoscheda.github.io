@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 7
+  order: 8
   tooltip: reaserch projects and funding
 ---
 
