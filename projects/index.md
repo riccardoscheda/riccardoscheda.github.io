@@ -1,11 +1,11 @@
 ---
 title: Projects
 nav:
-  order: 2
+  order: 7
   tooltip: reaserch projects and funding
 ---
 
-# <i class="fas fa-tools"></i>Projects
+# <i class="fas fa-projects"></i>Projects
 Our publicly funded research projects
 
 {% include search-info.html %}
@@ -14,10 +14,10 @@ Our publicly funded research projects
 
 ## Current Projects
 
-{% include list.html component="card" data="tools" filters="group: current" %}
+{% include list.html component="card" data="projects" filters="group: current" %}
 
 {% include section.html %}
 
 ## Past Projects
 
-{% include list.html component="card" data="tools" filters="group: past" style="large" %}
+{% include list.html component="card" data="projects" filters="group: past" style="large" %}
