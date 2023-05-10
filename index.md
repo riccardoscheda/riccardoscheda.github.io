@@ -72,6 +72,27 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 %}
 {:.center}
 
+{% capture text %}
+Explore our current ond past research projects...
+
+{%
+  include link.html
+  link="projects"
+  text="Browse our projects"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/projects.jpg"
+  link="resources"
+  title="Our Projects"
+  flip=true
+  text=text
+%}
 
 
 
