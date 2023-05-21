@@ -23,98 +23,80 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 
 {% include section.html %}
 
-# Highlights
 
-{% capture text %}
+
+
+{% 
+  include section.html
+  background="images/Research_img.png"
+  dark=true
+  size=full
+%}
+
+# Our Research
+
+{:.center}
 Our research mainly focuses in Neurological Disorders, such as Dementia, Autism and Schizophrenia. 
+{:.center}
 
 {%
-  include link.html
+  include button.html
   link="research"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/campus.jpeg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
 
 
 
 {% 
   include section.html
-  background="images/campus.jpeg"
-  dark=true
+  background="images/Resources.png"
   size=full
 %}
 
-## Our Research
+## Our Resources
 {:.center}
 
-Our research mainly focuses in Neurological Disorders, such as Dementia, Autism and Schizophrenia. 
-* list
-* example
-{:.center}
-
-{%
-  include button.html
-  link="research"
-  text="Find out more about the research"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-
-
-{% capture text %}
 We developed tools for Slice-level Data-leakage, and other methods.
 
 {%
-  include link.html
+  include button.html
   link="tools"
   text="Browse our tools"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/slice-level-data-leakage.png"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
+
+
+{% 
+  include section.html
+  background="images/Team_img.png"
+  size=full
 %}
 
-{% capture text %}
+## Our Team
+{:.center}
+
 See our team
+
 {%
-  include link.html
+  include button.html
   link="team"
   text="Meet our team"
   icon="fas fa-arrow-right"
   flip=true
 %}
 {:.center}
-{% endcapture %}
 
-{%
-  include feature.html
-  image="images/ingeingresso.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+
+
 
 {% include section.html full=true %}
+
 {% include banner.html image="images/AIphrase.png" %}
 
 {% include section.html %}
