@@ -113,6 +113,18 @@ linkedin:
 
 # publications
 
+pdf:
+  icon: far fa-newspaper
+  text: pdf
+  tooltip: pdf
+  link: $LINK
+
+blog:
+  icon: fas fa-blog
+  text: blog
+  tooltip: blog
+  link: $LINK
+
 journal:
   icon: far fa-newspaper
   text: Journal
