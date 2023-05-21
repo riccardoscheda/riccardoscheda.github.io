@@ -43,6 +43,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
 
 {:.center}
 Our research mainly focuses in Neurological Disorders, such as Dementia, Autism and Schizophrenia. 
+At the heart of our research efforts lies a singular goal: leveraging technology to drive advancements in healthcare. Our focus is on designing and developing specialized frameworks that address healthcare challenges, assist clinicians, uncover valuable biomarkers, and bridge the gap between computer science research and practical clinical applications. With a particular emphasis on the power of AI, we aim to optimize the medical domain by effectively utilizing technologies like images, clinical data, and genomics. By applying our expertise in these areas, we strive to improve medical practices and outcomes, making a tangible impact on the field of healthcare.
 {:.center}
 
 {%
@@ -65,7 +66,8 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 ## Our Resources
 {:.center}
 
-We developed tools for Slice-level Data-leakage, and other methods.
+We firmly believe in the power of collaboration to advance the field of precision medicine. As staunch advocates of open science, we freely share our code and methodologies on our GitHub page, fostering transparency and accelerating research progress. Explore our diverse range of tools, including cutting-edge generative models for synthesizing realistic medical data and innovative solutions for detecting data leakage in medical workflows.
+Here, you'll find a collection of powerful tools developed by our team, designed to address critical challenges in healthcare. These tools includes cutting-edge generative models for synthesizing realistic imaging brain MRI and innovative solutions for detecting data leakage in medical workflows.
 
 {%
   include button.html
@@ -87,7 +89,7 @@ We developed tools for Slice-level Data-leakage, and other methods.
 ## Our Team
 {:.center}
 
-See our team
+In the dynamic field of biomedical research, we embrace the power of a multidisciplinary team. Our team members bring diverse backgrounds and expertise, including biomedical engineering, physics, artificial intelligence, and electronic engineering. Together, we synergize our knowledge and skills to tackle complex challenges at the intersection of biology, technology, and healthcare. We are fueled by a constant thirst for knowledge and a deep enthusiasm for learning, studying, and pushing the boundaries of what is possible. Led by our shared passion for advancing the biomedical field, we collaborate and innovate to drive transformative discoveries and improve patient outcomes.
 
 {%
   include button.html
