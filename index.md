@@ -3,6 +3,12 @@ title: Home
 ---
 
 # AI for Medicine Research Group
+{% 
+  include section.html
+  background="images/campus.png"
+  dark=true
+  size=full
+%}
 
 Welcome to the AI for Medicine Research Group! We are a team of researchers dedicated to advancing the field of precision medicine through the use of artificial intelligence. At the heart of our work is a commitment to open science and collaboration. We believe in sharing all of our source code to accelerate research in this field, and we're excited to work with others who share our passion for using AI to improve patient outcomes.
 
@@ -33,7 +39,7 @@ Welcome to the AI for Medicine Research Group! We are a team of researchers dedi
   size=full
 %}
 
-# Our Research
+## Our Research
 
 {:.center}
 Our research mainly focuses in Neurological Disorders, such as Dementia, Autism and Schizophrenia. 
@@ -52,7 +58,7 @@ Our research mainly focuses in Neurological Disorders, such as Dementia, Autism 
 
 {% 
   include section.html
-  background="images/Resources.png"
+  background="images/Resources_img.png"
   size=full
 %}
 
