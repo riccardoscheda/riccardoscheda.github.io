@@ -47,7 +47,7 @@ At the heart of our research efforts lies a singular goal: leveraging technology
 {:.center}
 
 {%
-  include button.html
+  include link.html
   link="research"
   text="See what we've published"
   icon="fas fa-arrow-right"
@@ -70,7 +70,7 @@ We firmly believe in the power of collaboration to advance the field of precisio
 Here, you'll find a collection of powerful tools developed by our team, designed to address critical challenges in healthcare. These tools includes cutting-edge generative models for synthesizing realistic imaging brain MRI and innovative solutions for detecting data leakage in medical workflows.
 
 {%
-  include button.html
+  include link.html
   link="tools"
   text="Browse our tools"
   icon="fas fa-arrow-right"
@@ -92,7 +92,7 @@ Here, you'll find a collection of powerful tools developed by our team, designed
 In the dynamic field of biomedical research, we embrace the power of a multidisciplinary team. Our team members bring diverse backgrounds and expertise, including biomedical engineering, physics, artificial intelligence, and electronic engineering. Together, we synergize our knowledge and skills to tackle complex challenges at the intersection of biology, technology, and healthcare. We are fueled by a constant thirst for knowledge and a deep enthusiasm for learning, studying, and pushing the boundaries of what is possible. Led by our shared passion for advancing the biomedical field, we collaborate and innovate to drive transformative discoveries and improve patient outcomes.
 
 {%
-  include button.html
+  include link.html
   link="team"
   text="Meet our team"
   icon="fas fa-arrow-right"
